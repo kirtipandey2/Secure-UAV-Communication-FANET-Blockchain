@@ -1,26 +1,47 @@
-# Secure UAV Communication in FANET Using Blockchain
+# ABBC-SCM: Adaptive Blockchain-Enabled Bio-Inspired Swarm Coordination Model
 
-## Project Overview
-This project proposes a secure communication framework for Flying Ad-hoc Networks (FANETs) using blockchain technology to prevent spoofing, Sybil attacks, and data tampering in UAV swarms.
+##  Research Paper Based Project
+This project implements the ABBC-SCM model proposed for secure and adaptive UAV swarm coordination using:
 
-## Features
-- Blockchain-based authentication
-- Secure node identity verification
-- Protection against malicious UAV nodes
-- Improved communication reliability
+- Reinforcement Learning (RL)
+- Ant Colony Optimization (ACO)
+- Particle Swarm Optimization (PSO)
+- Blockchain-based Secure Communication
 
-##  Technologies Used
-- Python
-- Blockchain concepts
-- Network simulation
-- Cryptography
+##  Proposed Architecture
+The system integrates:
+
+1. Adaptive Intelligence using RL
+2. Bio-Inspired Decision Making (ACO & PSO)
+3. Blockchain Authentication Layer
+4. Self-Healing & Fault Tolerance Mechanism
+
+##  Implementation Platform
+- MATLAB Simulation Environment
+- Performance metrics evaluated for:
+  - 10 UAVs
+  - 100 UAVs
+
+## Performance Metrics
+- Throughput
+- Link Efficiency
+- Mission Completion Time
+- Energy Consumption
+
+##  Results
+The ABBC-SCM model shows:
+- 30–40% reduction in mission failure rate
+- Improved link efficiency
+- Enhanced scalability
+- Increased cyber-attack resilience
 
 ##  How to Run
-Clone the repository and run:
+1. Open MATLAB
+2. Run:
+   ABBC_SCM_UAV_Swarm.m
+3. View generated performance graphs
 
-python main.py
-
-##  Expected Outcome
-- Secure UAV communication
-- Attack prevention
-- Enhanced data integrity
+##  Author
+Kirti Pandey  
+Department of Computer Science  
+Rajkiya Engineering College, Kannauj
